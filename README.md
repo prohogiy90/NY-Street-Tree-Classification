@@ -29,8 +29,6 @@
 
 ## Структура проекта
 
-`data/`: Исходные данные [NY 2015 Street Tree Census - Tree Data](https://www.kaggle.com/datasets/new-york-city/ny-2015-street-tree-census-tree-data/data)
-
 `app/`: Файлы для запуска API и получения инференса модели
     - `app.py`: Код API.
     - `data_preparation.py`: Файл с кодом для подготовки и трансформации сырых данных в вид, подходящий для передачи на вход модели.
